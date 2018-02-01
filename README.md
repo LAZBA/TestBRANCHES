@@ -7,7 +7,7 @@ asdasd
 
 feature 1asdasdasdasdasdasdasdas
 dasdasf dg sfg         gadf af af
-asdma üfm aüfg maüf maüf masüf masüfdf üadgfm,
+asdma üfm
 asdlm asdasdüd masüf
 
 GPS Tracking
